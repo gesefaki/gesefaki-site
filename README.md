@@ -1,6 +1,6 @@
 # gesefaki-site
 
-This is my freelance portfolio. The site is intentionally small: React on the front end, Vinext and Vite for the build, and a Cloudflare Worker in production.
+Site-portfolio. The site is intentionally small: React on the front end, Vinext and Vite for the build, and a Cloudflare Worker in production.
 
 ## Running it locally
 
