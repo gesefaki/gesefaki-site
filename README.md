@@ -1,5 +1,7 @@
 # gesefaki-site
 
+**[Open the live site →](https://gesefaki-site.gesefaki1.workers.dev/)**
+
 Site-portfolio. The site is intentionally small: React on the front end, Vinext and Vite for the build, and a Cloudflare Worker in production.
 
 ## Running it locally
